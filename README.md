@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## ¡Bienvenido a mi perfil!
+Me llamo Juan José, aunque en internet uso el nickname de JackCloudman, estoy terminando la carrera de Ing. Sistemas Computacionales, en la ESCOM (MÉXICO).
 <!--
 **JackCloudman/JackCloudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
