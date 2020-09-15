@@ -1,5 +1,13 @@
 ## ¡Bienvenido a mi perfil!
 Me llamo Juan José, aunque en internet uso el nickname de JackCloudman, estoy terminando la carrera de Ing. Sistemas Computacionales, en la ESCOM (MÉXICO).
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackcloudman&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcloudman&hide=html&langs_count=10" />
+</a>
+
 <!--
 **JackCloudman/JackCloudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
