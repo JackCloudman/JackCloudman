@@ -1,5 +1,5 @@
 ## ¡Bienvenido a mi perfil!
-Me llamo Juan José, aunque en internet uso el nickname de JackCloudman, estoy terminando la carrera de Ing. Sistemas Computacionales, en la ESCOM (MÉXICO).
+Me llamo Juan José, pero soy más conocido en el mundo digital como JackCloudman. Soy un egresado de la carrera de Ingeniería en Sistemas Computacionales de la ESCOM en México. Como ingeniero apasionado por la tecnología y el cambio social, actualmente me encuentro inmerso en proyectos de alto impacto que tienen el potencial de cambiar el status quo. Creo firmemente en el poder de la innovación y la colaboración para generar un cambio significativo. Con dedicación, perseverancia y un poco de suerte, estoy convencido de que podremos hacer del mundo un lugar mejor para todos.
 
 ![Jack Cloudman's github stats](https://github-readme-stats.vercel.app/api?username=jackcloudman&count_private=true&theme=vue&show_icons=true)
 
