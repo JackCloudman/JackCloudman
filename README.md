@@ -1,7 +1,8 @@
 ## ¡Bienvenido a mi perfil!
-Me llamo Juan José, pero soy más conocido en el mundo digital como JackCloudman. Soy un egresado de la carrera de Ingeniería en Sistemas Computacionales de la ESCOM en México. Como ingeniero apasionado por la tecnología y el cambio social, actualmente me encuentro inmerso en proyectos de alto impacto que tienen el potencial de cambiar el status quo. Creo firmemente en el poder de la innovación y la colaboración para generar un cambio significativo. Con dedicación, perseverancia y un poco de suerte, estoy convencido de que podremos hacer del mundo un lugar mejor para todos.
+Me llamo Juan José, alias Jack Cloudman. Soy un artista e ingeniero, estoy trabajando en un rizoma de proyectos 🌱
 
-![Jack Cloudman's github stats](https://github-readme-stats.vercel.app/api?username=jackcloudman&count_private=true&theme=vue&show_icons=true)
+## Welcome to my profile
+My name is Juan José, also known as Jack Cloudman. I’m an artist and engineer, and I’m working on a rhizome of projects 🌱
 
 <!--
 **JackCloudman/JackCloudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
