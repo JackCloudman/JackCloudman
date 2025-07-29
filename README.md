@@ -1,8 +1,8 @@
 ## ¡Bienvenido a mi perfil!
-Me llamo Juan José, alias Jack Cloudman. Soy un artista e ingeniero, estoy trabajando en un rizoma de proyectos 🌱
+Me llamo Juan José. Soy un artista e ingeniero, estoy trabajando en un rizoma de proyectos 🌱
 
 ## Welcome to my profile
-My name is Juan José, also known as Jack Cloudman. I’m an artist and engineer, and I’m working on a rhizome of projects 🌱
+My name is Juan José. I’m an artist and engineer, and I’m working on a rhizome of projects 🌱
 
 <!--
 **JackCloudman/JackCloudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
