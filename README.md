@@ -1,6 +1,6 @@
 <div align="center">
 
-# Juan José Reyes Vilchis
+# Juan José Reyes Vilchis (Jack Cloudman)
 
 **Artist · Software/AI Engineer · ML Researcher**
 
